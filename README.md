@@ -24,7 +24,7 @@ It mainly contains  head tag followed by body tag iside the html tag
         <body>
             <hr><em>Horizontal line is printed</em>
             <br>new line is generated<br>
-            &lt;&nbsp;&copy;
+            &lt;   &nbsp;   &copy;
             <ol>
                 <li>hello1</li>
                 <li>hekllo2</li>
