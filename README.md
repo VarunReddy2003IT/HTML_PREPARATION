@@ -3,9 +3,7 @@
 ---
 It mainly contains  head tag followed by body tag iside the html tag
 * ***Basic tags***
-    <html>
-        <head>
-        </head>
-        <body>
-        </body>
-    </html>
+        *<head>
+        *</head>
+        *<body>
+        *</body>
